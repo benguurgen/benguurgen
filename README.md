@@ -3,6 +3,7 @@
 <br>
 
 - 📫 How to reach me: benguurgen@gmail.com
+ - 🌱 I’m currently learning [Asp.Net Core]
 <!--- 😄 Pronouns: she
  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
