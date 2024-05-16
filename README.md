@@ -31,7 +31,7 @@
 
 ## 🔗 Connect with me 
 <p align="left">
-<a href="https://www.linkedin.com/in/benguurgndemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
+<a href="https://www.linkedin.com/in/benguurgendemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
 <a href="https://www.instagram.com/smokincaterpillar/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="4214976" height="40" width="40" /></a>
 <a href="https://github.com/benguurgen" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="4214976" /></a>
 
