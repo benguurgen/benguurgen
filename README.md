@@ -3,11 +3,8 @@
 <br>
 
 - 📫 How to reach me: benguurgen@gmail.com
- - 🌱 I’m currently learning [Asp.Net Core]
-<!--- 😄 Pronouns: she
- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
+- 🧠  I'm learning [Angular](http://https://angular.dev/)
+
 
 #
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benguurgen&&row=1&theme=monokai" alt="benguurgen" /></a></p>
